@@ -1,0 +1,13 @@
+.option p:hover {
+  background-color: rgb(0, 0, 0);
+}
+
+.correct {
+  background-color: green;
+  font-weight: bold;
+}
+
+.wrong{
+  background-color: red;
+  opacity: 0.4;
+}
